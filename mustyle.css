@@ -1,0 +1,71 @@
+body {
+  font-family:  serif;
+  color: hotpink;
+  background-color: white;
+  font-size: 15px;
+  margin: 0;
+}
+
+body h1 {
+  color: white;
+  font-family: fantasy;
+  font-style:  italic;
+  background-color: hotpink;
+  font-size: 20px;
+  margin: 50px;
+}
+
+
+body h2 {
+  color: white;
+  font-family: fantasy;
+  font-style:  italic;
+  background-color: hotpink;
+  font-size: 20px;
+  margin: 50px;
+}
+
+
+.banner {
+  background-image: url(https://entreterse.com.br/wp-content/uploads/2019/04/Titanic.jpg);
+  background-size:  cover;
+  background-position: center;
+  padding: 100px 0;
+  text-align:  center;
+}
+
+.banner h1 {
+  color:  white;
+  font-size: 24px;
+  background-color: pink;
+    padding: 16px 48px;
+    border-radius: 4px;
+
+}
+
+ body list
+  color: hotpink;
+  font-family: serif;
+  font-style: oblique;
+  font-size: 15px;
+  background-color: white;
+  text-align:center
+}
+
+
+.banner class=list
+  color:  white;
+  font-size: 24px;
+  background-color: white;
+    padding: 16px 48px;
+    border-radius: 4px;
+  }
+  
+banner2 {
+  background-image: url(https://entreterse.com.br/wp-content/uploads/2019/04/Titanic.jpg);
+  background-size:  cover;
+  background-position: center;
+  padding: 100px 0;
+  text-align:  center;
+}
+
